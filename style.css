@@ -58,6 +58,7 @@ body {
 
 .bouton {
     background-color: #088E6B;
+    color: white;
     border-radius: 50px;
     width: 150px;
     display: flex;
